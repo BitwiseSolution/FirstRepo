@@ -3,3 +3,5 @@ writng in it as example
 commit 2# : during squash activity
 
 commit 3# : during squash activity
+
+commit 4# : during squash activity
